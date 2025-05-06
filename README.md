@@ -6,3 +6,7 @@ penggunaan python terbilang cukup ringkas dan gampang dipelajari oleh siapapun t
 ## Penyajian materi
 
 materi disajikan dalam bentuk NoteBook yang ber-Ekstensi *.ipynb* yang jika anda tau, tampilannya mirip google colab.
+
+### Cara mengakses file?
+
+Jika kamu menggunakan visual studio code (vscode) maka Silahkan unduh extension **jupyter** serta extension terkait **python** dan disarankan ekstensi **code runner**.
